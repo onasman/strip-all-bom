@@ -1,0 +1,1 @@
+# Strip All Bom
